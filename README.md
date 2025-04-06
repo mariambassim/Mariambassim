@@ -1,9 +1,9 @@
-### Hi there, I'm Mariam!
+### Hi there, I'm Mariam! 👋
 
-I'm a first-year student who's passionate about learning programming.  
-I have some basic knowledge of JavaScript and I'm excited to explore open-source projects through Google Summer of Code.
+I'm a first-year Business Information Systems student exploring how technology and data can transform business processes and improve decision-making.
 
-I'm here to learn, grow, and contribute to beginner-friendly projects.  
-Feel free to check my journey here!
+- 🌱 Currently learning: JavaScript, HTML, CSS, and diving into data analytics.
+- ✨ Interested in: Business intelligence, tech tools, process automation, and developing simple business apps.
+- 📫 How to reach me: [mariambassim9977@gmail.com]
 
-Thanks for stopping by!
+Thanks for visiting my profile!
